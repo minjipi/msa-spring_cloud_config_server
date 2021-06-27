@@ -1,1 +1,1 @@
-# msa-spring_cloud_config_server
+# msa_spring_cloud_config_server
